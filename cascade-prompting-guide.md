@@ -173,6 +173,8 @@ The optimized workflow consists of the following steps:
 
 ## 9. Continuous Scrutiny and Instruction Adherence
 
+MUST EXPAND HERE RE RECENT ISSUES: AGENT DELETES STUFF, MAKES STUFF YOU DIDNT ASK FOR, DELETING SWATHES OF README?, DELETING UI ELEMENTS - SUMMARISE ISSUES FROM PREVIOUS 2 COMMITS AND INCLUDE HERE
+
 **Objective:** Ensure all instructions are accurately followed and maintain the project's direction.
 
 ### Actions:
