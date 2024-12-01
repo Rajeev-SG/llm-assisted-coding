@@ -252,9 +252,14 @@ The optimized workflow consists of the following steps:
 >3. Documentation of ALL errors and fixes in CHANGELOG.md
 >4. The updating of BUGS.md with all issues and warnings
 >5. Verification all directories and files exist
->6. The updating of README.md to reflect current project state
+>6. The updating of README.md to reflect current project state including successfully implemented features
 >7. Testing procedures
-
+>8. Project Context: (e.g.'You are assisting with development on {project_name}, a {project_description}. Before proceeding, analyze the following documentation to understand the project:
+>README Location: {readme_path}
+>CHANGELOG Location: {changelog_path}
+>BUGS Location: {bugs_path}
+>9. Development Guidelines: Code Preservation, Maintain existing UI layout and styling exactly as is, Do not modify working code unless specifically required, Preserve all existing functionality, Keep current component structure intact
+>10. Feature Implementation: Add only features explicitly requested, Implement changes incrementally, one at a time
 
 ## Additional Improvements and Considerations
 
