@@ -10,6 +10,7 @@
 - [Best Practices](#best-practices)
 - [Documentation Strategy](#documentation-strategy)
 - [Tips & Troubleshooting](#tips--troubleshooting)
+- [Coming Soon](#coming-soon)
 
 ## Getting Started
 
@@ -172,7 +173,11 @@ After each feature implementation:
    - Use documentation as context
    - Implement changes incrementally
 
----
+## Coming Soon
+
+- Unit testing
+- Version control
+
 📝 **Pro Tip**: Always include project structure, component details, and other relevant information in your documentation files. Use these as context for subsequent development prompts to maintain consistency and prevent unintended code changes.
 
 ## License
