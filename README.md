@@ -1,6 +1,6 @@
-# 🤖 LLM-Assisted Software Development Guide
+# 🤖 LLM-Assisted Development Guide
 
-> A systematic approach to building software applications with AI assistance
+> A systematic approach to building applications with AI assistance
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
